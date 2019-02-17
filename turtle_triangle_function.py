@@ -9,7 +9,9 @@ def makeTriangle():
     josh.left(120)
 
 makeTriangle()
+josh.left(120)
 makeTriangle()
+josh.left(120)
 makeTriangle()
 
 turtle.done()
